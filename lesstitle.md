@@ -4,7 +4,7 @@
 
 例如：筛选器
 
-<img src="img/13.png"  width="200px">
+<img src="img/1ccccc.png"  width="200px">
 
 除非专业用户，否则少有人知道“筛选器”其实就是用来筛选数据的。
 
